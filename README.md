@@ -1,6 +1,6 @@
 # zune
 Zune related info
-## How to fix error code: C00D11CD (80004005) Can't Sync. An unknown error occurred.
+## How to fix error code: C00D11CD (80004002) Can't Sync. An unknown error occurred.
 ```
 This happens when trying to sync a video from your Zune Software to your Zune HD.
 The issue is with the version of wmvcore.dll in your system32 folder.
